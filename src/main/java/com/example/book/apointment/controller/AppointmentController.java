@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Optional;
 
 @RestController
+//@CrossOrigin(origins = http://localhost:3000/form)
 public class AppointmentController {
 
     @Autowired
