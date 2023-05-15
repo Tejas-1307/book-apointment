@@ -10,7 +10,6 @@ import java.io.Serializable;
 @Data
 public class PrefixGenderMappingId implements Serializable {
 
-
     private Integer prefixId;
 
     private Integer genderId;

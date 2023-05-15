@@ -13,4 +13,5 @@ public class PrefixGenderMapping implements Serializable {
 
     @EmbeddedId
     private PrefixGenderMappingId prefixGenderMappingId;
+
 }
